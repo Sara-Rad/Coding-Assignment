@@ -63,6 +63,11 @@ body {
 .text-center{
     background:#c0b8d6;
 }
+.text-center h2{
+    background: black;
+    padding:5px;
+}
+
 #home-tiles .item-text {
     background: #5e5e5e;
     padding: 10px;
