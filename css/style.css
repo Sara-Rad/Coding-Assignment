@@ -11,7 +11,9 @@ body {
     border-radius: 0;
     border: 0;
 }
-
+.navbar navbar-expand-lg{
+     background-color:#adacad;
+}
 .navbar-brand {
     padding-top: 25px;
     padding-bottom: 40px;
