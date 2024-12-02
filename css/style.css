@@ -57,7 +57,9 @@ body {
 /* END HEADER */
 
 /* HOME PAGE */
-
+.text-center h2{
+    background:#c0b8d6;
+}
 #home-tiles .item-text {
     background: #5e5e5e;
     padding: 10px;
