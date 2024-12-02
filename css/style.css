@@ -11,7 +11,7 @@ body {
     border-radius: 0;
     border: 0;
 }
-.navbar navbar-expand-lg{
+.navbar navbar-expand-lg navbar-light bg-light{
      background-color:#adacad;
 }
 .navbar-brand {
@@ -60,7 +60,7 @@ body {
 /* END HEADER */
 
 /* HOME PAGE */
-.text-center h2{
+.text-center{
     background:#c0b8d6;
 }
 #home-tiles .item-text {
