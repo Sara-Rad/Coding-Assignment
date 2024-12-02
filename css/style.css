@@ -34,7 +34,7 @@ div > p {
 	}
 	
 	#collapsable-nav {
-		background-color: #BBEABB;
+		background-color: #dacaed;
 	}
 	
 	#nav-list {		
@@ -44,11 +44,11 @@ div > p {
 	
 	#nav-list li{
 		text-align: center;
-		border: 1px solid #559955;
+		border: 1px solid #6e4d87;
 		margin-bottom:-1px;
 	}
 	#nav-list li:hover{
 		font-weight: bold;
-		background-color: #BBDDBB;
+		background-color: #7b6c87;
 	}
 }
