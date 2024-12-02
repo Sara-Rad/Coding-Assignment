@@ -17,7 +17,8 @@ body {
 .navbar-brand {
     padding-top: 25px;
     padding-bottom: 40px;
-    background-color:#adacad;
+    font-family: 'Lora', serif;
+    
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
@@ -29,7 +30,7 @@ body {
     text-transform: uppercase;
     position: relative;
     font-weight: bold;
-    text-shadow: 2px 2px 2px #222;
+    text-shadow: 1px 1px 1px #5418ba;
     margin-top: 0;
     margin-bottom: 0;
     line-height: .75;
