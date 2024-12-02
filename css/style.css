@@ -15,6 +15,7 @@ body {
 .navbar-brand {
     padding-top: 25px;
     padding-bottom: 40px;
+    background-color:#aeebe8;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
